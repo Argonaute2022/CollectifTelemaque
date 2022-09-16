@@ -7,11 +7,11 @@ function Convictions () {
 	const ConvItems = [
 		{
 			title: 'Social',
-			text:'Le progrès social est le souci constant de la gauche réformiste, dont la finalité est la protection et l’émancipation des classes populaires, des classes moyennes et des personnes victimes de discriminations."'
+			text:'Le progrès social est le souci constant de la gauche réformiste, dont la finalité est la protection et l’émancipation des classes populaires, des classes moyennes et des personnes victimes de discriminations.'
 		},
 		{
 			title: 'Ecologie',
-			text:'Sans la transition écologique,  aucun progrès n\'est possible. Face à un capitalisme prédateur, il s\'agit de poursuivre un développement humain soucieux de jsutice sociale et se gardant de ses propres excès.'
+			text:'Sans la transition écologique,  aucun progrès n\'est possible. Face à un capitalisme prédateur, il s\'agit de poursuivre un développement humain soucieux de justice sociale et se gardant de ses propres excès.'
 		},
 		{
 			title: 'Europe',
@@ -33,7 +33,7 @@ function Convictions () {
 			
 			<div className='convictions__container'>
 				<div className='convictions__text'>
-					<p className='convictions__text__item'>La gauche réformiste, prise en étau entre une gauche radicale-populiste et un centre droit attrape-tout, est menacée dans son existence même. Pourtant, elle seule, en alliant éthique de la conviction et éthique de la responsabilité, peut permettre de renouer avec un progès social réel.</p>
+					<p className='convictions__text__item'>La gauche réformiste, prise en étau entre une gauche protestataire condamnée à vivre dans l’opposition et un centre droit qui penche toujours plus à droite, est menacée dans son existence même. Pourtant, elle seule, en alliant radicalité et crédibilité, peut permettre de renouer avec un progrès social réel.</p>
 				
 					<p className='convictions__text__item'> Pour cela, elle devra reconstruire un projet en s’appuyant sur les quatre piliers indissociables qui forgent son identité idéologique : le progrès social, la transition écologique, la construction européenne et la démocratie pluraliste.</p>
 					<div className='convictions__text__btn'>
