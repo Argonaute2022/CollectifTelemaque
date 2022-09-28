@@ -11,7 +11,7 @@ function Convictions () {
 		},
 		{
 			title: 'Ecologie',
-			text:'Sans la transition écologique,  aucun progrès n\'est possible. Face à un capitalisme prédateur, il s\'agit de poursuivre un développement humain soucieux de justice sociale et se gardant de ses propres excès.'
+			text:'Sans la transition écologique, aucun progrès n\'est possible. Face à un capitalisme prédateur, il s\'agit de poursuivre un développement humain soucieux de justice sociale et se gardant de ses propres excès.'
 		},
 		{
 			title: 'Europe',
