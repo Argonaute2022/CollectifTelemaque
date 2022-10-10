@@ -20,7 +20,7 @@ function Actions () {
 			
 			<div className='actions__content__card'>
 				<img className='actions__content__photo' src={livre} alt="Livre Collectif Télémaque" />
-				<div className='actions__content__card__text1'><a href='https://www.jean-jaures.org'>
+				<div className='actions__content__card__text1'><a href='https://www.jean-jaures.org/publication/la-gauche-du-reel-un-progressisme-pour-aujourdhui/'>
 					<h1 className='actions__content__title'> Un ouvrage collectif</h1>
 					<p className='actions__content__text'> Un livre fondateur qui présente nos réflexions de fond </p>
 					</a>
