@@ -14,6 +14,7 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
+
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.gotoLocation.multipleTypeDefinitions": "goto",
@@ -31,20 +32,30 @@
   "editor.suggestSelection": "recentlyUsed",
   "editor.tabCompletion": "on",
   "editor.tabSize": 2,
-  "emmet.excludeLanguages": ["typescript", "typescriptreact", "javascript", "javascriptreact"],
+  "emmet.excludeLanguages": [
+    "typescript",
+    "typescriptreact",
+    "javascript",
+    "javascriptreact"
+  ],
   "emmet.showAbbreviationSuggestions": false,
   "emmet.showExpandedAbbreviation": "never",
   "eslint.lintTask.enable": true,
   "eslint.packageManager": "npm",
-  "eslint.workingDirectories": [{
-    "mode": "auto"
-  }],
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
   "files.autoSave": "off",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
   "javascript.referencesCodeLens.enabled": true,
   "javascript.referencesCodeLens.showOnAllFunctions": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "references.preferredLocation": "view",
-  "terminal.integrated.enablePersistentSessions": false,
+  "terminal.integrated.enablePersistentSessions": true,
   "typescript.implementationsCodeLens.enabled": true,
   "typescript.preferences.importModuleSpecifier": "relative",
   "typescript.referencesCodeLens.enabled": true,

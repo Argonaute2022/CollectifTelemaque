@@ -6,6 +6,7 @@
     "dbaeumer.vscode-eslint",
     "redhat.vscode-yaml",
     "visualstudioexptteam.vscodeintellicode",
+    "bradlc.vscode-tailwindcss"
   ],
   // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
   "unwantedRecommendations": []
