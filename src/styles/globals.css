@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  ul,
+  ol {
+    @apply list-inside;
+  }
+}
+
+@layer components {
+  .container {
+    max-width: min(100vw, 1280px);
+    @apply px-4 sm:px-6 md:px-12 lg:px-16 xl:px-20 2xl:px-0;
+  }
+
+  .strong-underline strong {
+    @apply underline;
+  }
+
+  .links a[href]:hover {
+    @apply underline;
+  }
+
+  .links-blue a[href] {
+    @apply text-blue-500;
+  }
+
+  .links-red a[href] {
+    @apply text-red-500;
+  }
+
+  .lists ul {
+    @apply list-disc;
+  }
+
+  .lists ol {
+    @apply list-decimal;
+  }
+
+  .btn {
+    @apply px-2 py-1;
+  }
+
+  .btn-red {
+    @apply border-red-400 border-2 text-red-400 hover:bg-red-400 hover:text-white;
+  }
+
+  .btn-green {
+    @apply border-green-400 border-2 text-green-400 hover:bg-green-400 hover:text-white;
+  }
+
+  .btn-blue {
+    @apply border-blue-400 border-2 text-blue-400 hover:bg-blue-400 hover:text-white;
+  }
+}
