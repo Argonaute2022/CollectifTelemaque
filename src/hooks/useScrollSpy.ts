@@ -16,7 +16,6 @@ export const useScrollSpy = <T extends string>(
         const top = document.getElementById(id)?.getBoundingClientRect().top;
         if (typeof top === `number`) {
           const absTop = Math.abs(top);
-          console.log({ id, absTop });
           if (!next) {
             next = {
               id,

@@ -3,9 +3,18 @@ import Markdown from "react-markdown";
 import type { ContentLocale } from ".";
 
 export const contentLocaleFr: ContentLocale = {
+  legal: {
+    title: `Mentions légales`,
+    content: (
+      <Markdown>{`
+# Informations légales
+
+    `}</Markdown>
+    ),
+  },
   home: {
+    title: `Collectif Télémaque`,
     contactLink: `Suivre nos activités !`,
-    copyright: `Collectif Télémaque © ${new Date().getFullYear()}`,
     sections: {
       convictions: {
         title: `Nos convictions`,
@@ -104,8 +113,9 @@ Si notre projet vous intéresse, que vous souhaitez nous rejoindre ou simplement
         ),
       },
     },
-    twitter: {
-      href: `https://twitter.com/colltelemaque`,
-    },
+  },
+  copyright: `Collectif Télémaque © ${new Date().getFullYear()}`,
+  twitter: {
+    href: `https://twitter.com/colltelemaque`,
   },
 };

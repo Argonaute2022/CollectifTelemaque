@@ -1,7 +1,12 @@
 import type { ReactNode } from "react";
 
 export type ContentLocale = {
+  legal: {
+    title: string;
+    content: ReactNode;
+  };
   home: {
+    title: string;
     contactLink: string;
     sections: {
       convictions: {
@@ -61,9 +66,9 @@ export type ContentLocale = {
         description: ReactNode;
       };
     };
-    copyright: string;
-    twitter: {
-      href: string;
-    };
+  };
+  copyright: string;
+  twitter: {
+    href: string;
   };
 };

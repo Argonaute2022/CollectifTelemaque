@@ -1,84 +1,16 @@
 import Image from "next/image";
 import type { FunctionComponent } from "react";
+import Head from "next/head";
 
 import bookImageSrc from "../assets/book.png";
 import citizensImageSrc from "../assets/citizens.png";
 import columnsImageSrc from "../assets/columns.png";
-import logoImageSrc from "../assets/collectif-telemaque.png";
 import meetingsImageSrc from "../assets/meetings.png";
 import type { ContentLocale } from "../contents";
 import { contentLocaleFr } from "../contents/fr";
-import { useScrollSpy } from "../hooks/useScrollSpy";
 import { keys } from "../lib/utils";
-
-const mainContainerId = `main-container`;
-
-const sections = {
-  convictions: {
-    btn: `btn-red`,
-    bg: `bg-red-400`,
-    bgLight: `bg-red-200`,
-    hoverTextColor: `hover:text-red-400`,
-    borderBottomColor: `border-b-red-400`,
-    borderColor: `border-red-400`,
-  },
-  collective: {
-    btn: `btn-green`,
-    bg: `bg-green-400`,
-    bgLight: `bg-green-200`,
-    hoverTextColor: `hover:text-green-400`,
-    borderBottomColor: `border-b-green-400`,
-    borderColor: `border-green-400`,
-  },
-  actions: {
-    btn: `btn-blue`,
-    bg: `bg-blue-400`,
-    bgLight: `bg-blue-200`,
-    hoverTextColor: `hover:text-blue-400`,
-    borderBottomColor: `border-b-blue-400`,
-    borderColor: `border-blue-400`,
-  },
-  contact: {
-    btn: `btn-red`,
-    bg: `bg-red-400`,
-    bgLight: `bg-red-200`,
-    hoverTextColor: `hover:text-red-400`,
-    borderBottomColor: `border-b-red-400`,
-    borderColor: `border-red-400`,
-  },
-} as const;
-
-const NavBar: FunctionComponent<{ content: ContentLocale }> = ({ content }) => {
-  const activeSection = useScrollSpy(mainContainerId, keys(sections));
-  return (
-    <>
-      <div className={`w-32 md:w-48`}>
-        <Image alt={`Collectif Télémaque`} src={logoImageSrc} />
-      </div>
-      <div className={`hidden sm:flex flex-1 justify-around`}>
-        <ul className={`flex flex-row items-center gap-3 text-lg`}>
-          {keys(sections).map((section) => (
-            <li key={section}>
-              <a
-                className={`${
-                  sections[section].hoverTextColor
-                } border-t-2 border-t-transparent border-b-2 ${
-                  section === activeSection
-                    ? sections[section].borderBottomColor
-                    : `border-b-transparent`
-                }`}
-                href={`#${section}`}
-              >
-                {content.home.sections[section].title}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-      <div className={`sm:hidden`}>{`Div`}</div>
-    </>
-  );
-};
+import { Page } from "../components/Page";
+import { sections } from "../styles/sections";
 
 const MainSectionConvictions: FunctionComponent<{ content: ContentLocale }> = ({
   content,
@@ -331,44 +263,24 @@ const MainSectionContact: FunctionComponent<{ content: ContentLocale }> = ({
   </section>
 );
 
-const Main: FunctionComponent<{ content: ContentLocale }> = ({ content }) => {
-  return (
-    <main className={`flex flex-col flex-1`}>
-      <MainSectionConvictions content={content} />
-      <MainSectionCollective content={content} />
-      <MainSectionActions content={content} />
-      <MainSectionContact content={content} />
-    </main>
-  );
-};
+const Main: FunctionComponent<{ content: ContentLocale }> = ({ content }) => (
+  <>
+    <MainSectionConvictions content={content} />
+    <MainSectionCollective content={content} />
+    <MainSectionActions content={content} />
+    <MainSectionContact content={content} />
+  </>
+);
 
-const Footer: FunctionComponent<{ content: ContentLocale }> = ({ content }) => {
-  return (
-    <footer className={`flex flex-row justify-center items-center p-4`}>
-      {content.home.copyright}
-    </footer>
-  );
-};
-
-const HomePage: FunctionComponent = () => {
-  return (
-    <div
-      className={`relative z-0 w-full min-h-screen max-h-screen flex flex-col`}
-    >
-      <nav
-        className={`fixed z-30 h-20 px-4 flex flex-row w-full justify-between items-center`}
-      >
-        <NavBar content={contentLocaleFr} />
-      </nav>
-      <div
-        className={`relative z-10 mt-20 overflow-x-clip overflow-y-scroll flex-1 flex flex-col`}
-        id={mainContainerId}
-      >
-        <Main content={contentLocaleFr} />
-        <Footer content={contentLocaleFr} />
-      </div>
-    </div>
-  );
-};
+const HomePage: FunctionComponent = () => (
+  <>
+    <Head>
+      <title>{contentLocaleFr.home.title}</title>
+    </Head>
+    <Page content={contentLocaleFr}>
+      <Main content={contentLocaleFr} />
+    </Page>
+  </>
+);
 
 export default HomePage;
