@@ -276,6 +276,10 @@ const HomePage: FunctionComponent = () => (
   <>
     <Head>
       <title>{contentLocaleFr.home.title}</title>
+      <meta
+        content={contentLocaleFr.home.metaDescription}
+        name={`description`}
+      />
     </Head>
     <Page content={contentLocaleFr}>
       <Main content={contentLocaleFr} />

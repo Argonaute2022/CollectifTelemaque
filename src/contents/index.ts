@@ -3,10 +3,12 @@ import type { ReactNode } from "react";
 export type ContentLocale = {
   legal: {
     title: string;
+    metaDescription: string;
     content: ReactNode;
   };
   home: {
     title: string;
+    metaDescription: string;
     contactLink: string;
     sections: {
       convictions: {

@@ -19,6 +19,10 @@ const LegalPage: FunctionComponent = () => (
   <>
     <Head>
       <title>{contentLocaleFr.legal.title}</title>
+      <meta
+        content={contentLocaleFr.legal.metaDescription}
+        name={`description`}
+      />
     </Head>
     <Page content={contentLocaleFr}>
       <Main content={contentLocaleFr} />

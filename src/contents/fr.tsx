@@ -5,6 +5,7 @@ import type { ContentLocale } from ".";
 export const contentLocaleFr: ContentLocale = {
   legal: {
     title: `Mentions légales`,
+    metaDescription: `Mentions légales du site telemaque.eu`,
     content: (
       <Markdown>{`
 # Informations légales
@@ -14,6 +15,7 @@ export const contentLocaleFr: ContentLocale = {
   },
   home: {
     title: `Collectif Télémaque`,
+    metaDescription: `Le Collectif Télémaque rassemble des universitaires, fonctionnaires, cadres du secteur privé, militants, élus et syndicalistes qui ne se résignent pas à la mort annoncée de la gauche de gouvernement.`,
     contactLink: `Suivre nos activités !`,
     sections: {
       convictions: {
