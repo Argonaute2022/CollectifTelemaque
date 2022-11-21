@@ -10,6 +10,9 @@ export const contentLocaleFr: ContentLocale = {
       <Markdown>{`
 # Informations légales
 
+Directeur de la publication: Philippe Sabucco
+
+Hébergeur: PlanetHoster
     `}</Markdown>
     ),
   },
