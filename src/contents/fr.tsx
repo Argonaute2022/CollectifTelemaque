@@ -77,25 +77,35 @@ D’inspiration sociale-démocrate, le Collectif Télémaque entend contribuer �
           book: {
             title: `Un ouvrage collectif`,
             description: (
-              <Markdown>{`Un [livre fondateur](https://www.jean-jaures.org/publication/la-gauche-du-reel-un-progressisme-pour-aujourdhui/) qui présente nos réflexions de fond`}</Markdown>
+              <Markdown>{`
+Un [livre fondateur](https://www.jean-jaures.org/publication/la-gauche-du-reel-un-progressisme-pour-aujourdhui/) qui présente nos réflexions de fond
+              
+Voir aussi dans la presse [La gauche du "pragmatisme exigeant"](https://www.lemonde.fr/idees/article/2019/05/09/la-gauche-du-pragmatisme-exigeant_5459850_3232.html) et [La gauche qui veut (re)gouverner](https://www.liberation.fr/debats/2019/03/05/la-gauche-qui-veut-regouverner_1713191/)
+              `}</Markdown>
             ),
           },
           meetings: {
             title: `Des rencontres`,
             description: (
               <Markdown>{`
+Une journée [Gauche: des questions qui dérangent](https://www.engageons-nous.org/gauche_des_questions_qui_derangent?utm_campaign=_invit_gauche_quest_qui_derang&utm_medium=email&utm_source=appeldegauche) co-organisée le 26/11/2022 avec Engageons-nous, Inventer à gauche, et Nouvelle société
+ 
 Des échanges avec des intellectuels pour nourrir nos réflexions
               `}</Markdown>
             ),
           },
           columns: {
-            title: `Des tribunes`,
+            title: `Des prises de position`,
             description: (
               <Markdown>{`
-Des prises de position relayées dans la presse
+Des tribunes dans la presse
 
-* [Non, la gauche de gouvernement n'est pas morte](https://www.lemonde.fr/idees/article/2022/05/04/non-la-gauche-de-gouvernement-n-est-pas-morte_6124727_3232.html)
-* [Ne pas avoir mis de garde-fous pour empêcher le RN de voter la motion de censure de la Nupes fut une erreur](https://www.lemonde.fr/idees/article/2022/11/08/ne-pas-avoir-mis-de-garde-fous-pour-empecher-le-rn-de-voter-la-motion-de-censure-de-la-nupes-fut-une-erreur_6148988_3232.html)
+* [Non, la gauche de gouvernement n'est pas morte](https://www.lemonde.fr/idees/article/2022/05/04/non-la-gauche-de-gouvernement-n-est-pas-morte_6124727_3232.html) (Le Monde, 04/05/2022)
+* [Ne pas avoir mis de garde-fous pour empêcher le RN de voter la motion de censure de la Nupes fut une erreur](https://www.lemonde.fr/idees/article/2022/11/08/ne-pas-avoir-mis-de-garde-fous-pour-empecher-le-rn-de-voter-la-motion-de-censure-de-la-nupes-fut-une-erreur_6148988_3232.html) (Le Monde, 08/11/2022)
+
+Des manifestes collectifs
+
+* [Manifeste pour une gauche sociale‐démocrate, républicaine, humaniste et écologique](https://assets.nationbuilder.com/appeldegauche/mailings/353/attachments/original/Manifeste_pour_une_gauche_sociale-de%CC%81mocrate__re%CC%81publicaine__humaniste_et_e%CC%81cologique_%28et_signataires_040922%29.pdf?1662369866)
               `}</Markdown>
             ),
           },
