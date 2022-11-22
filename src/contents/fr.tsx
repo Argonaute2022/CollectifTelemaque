@@ -12,7 +12,7 @@ export const contentLocaleFr: ContentLocale = {
 
 Directeur de la publication: Philippe Sabucco
 
-Hébergeur: PlanetHoster
+Hébergeur: Netlify
     `}</Markdown>
     ),
   },
