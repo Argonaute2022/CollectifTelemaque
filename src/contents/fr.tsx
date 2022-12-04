@@ -93,7 +93,7 @@ Voir aussi dans la presse [La gauche du "pragmatisme exigeant"](https://www.lemo
               <Markdown>{`
 Une journée [Gauche: des questions qui dérangent](https://www.engageons-nous.org/gauche_des_questions_qui_derangent?utm_campaign=_invit_gauche_quest_qui_derang&utm_medium=email&utm_source=appeldegauche) co-organisée le 26/11/2022 avec Engageons-nous, Inventer à gauche, et Nouvelle société
  
-Des échanges avec des intellectuels pour nourrir nos réflexions
+Des échanges avec des intellectuels pour nourrir nos réflexions (Irène Théry, François Dubet, Laurent Cordonier...)
               `}</Markdown>
             ),
           },
