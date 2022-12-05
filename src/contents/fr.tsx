@@ -45,7 +45,7 @@ Pour cela, elle devra reconstruire un projet en s’appuyant sur les quatre pili
           },
           europe: {
             title: `Europe`,
-            description: `'Europe est le bon échelon pour répondre aux défis de notre temps - lutte contre le dérèglement climatique, régulation du capitalisme mondialisé - et construire collectivement un nouveau modèle de société à vocation mondiale.`,
+            description: `L'Europe est le bon échelon pour répondre aux défis de notre temps - lutte contre le dérèglement climatique, régulation du capitalisme mondialisé - et construire collectivement un nouveau modèle de société à vocation mondiale.`,
           },
           democracy: {
             title: `Démocratie`,
@@ -63,7 +63,7 @@ Pour cela, elle devra reconstruire un projet en s’appuyant sur les quatre pili
             title: `Des citoyens engagés`,
             description: (
               <Markdown>{`
-Le Collectif Télémaque rassemble des *universitaires*, *fonctionnaires*, *cadres du secteur privé*, militants, élus et syndicalistes qui ne se résignent pas à la mort annoncée de la gauche de gouvernement.
+Le Collectif Télémaque rassemble des universitaires, fonctionnaires, cadres du secteur privé, militants, élus et syndicalistes qui ne se résignent pas à la mort annoncée de la gauche de gouvernement.
 
 D’inspiration sociale-démocrate, le Collectif Télémaque entend contribuer à la vie des idées, au débat politique et à la refondation idéologique d’une gauche réformiste.
             `}</Markdown>
