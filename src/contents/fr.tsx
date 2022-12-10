@@ -91,7 +91,7 @@ Voir aussi dans la presse [La gauche du "pragmatisme exigeant"](https://www.lemo
             title: `Des rencontres`,
             description: (
               <Markdown>{`
-Une journée [Gauche: des questions qui dérangent](https://www.engageons-nous.org/gauche_des_questions_qui_derangent?utm_campaign=_invit_gauche_quest_qui_derang&utm_medium=email&utm_source=appeldegauche) co-organisée le 26/11/2022 avec [Engageons-nous](https://www.engageons-nous.org/), [Inventer à gauche](https://www.inventeragauche.com/), et [Nouvelle société](https://www.nouvellesociete.fr/)
+Une journée [Gauche: des questions qui dérangent](https://www.engageons-nous.org/gauche_des_questions_qui_derangent?utm_campaign=_invit_gauche_quest_qui_derang&utm_medium=email&utm_source=appeldegauche) co-organisée le 26/11/2022 avec [Engageons-nous](https://www.engageons-nous.org/), [Inventer à gauche](https://www.inventeragauche.com/), et [Nouvelle société](https://www.nouvellesociete.fr/), avec la participation de Yamina Saheb, Jean Peyrelevade, Dominique Bourg, Arancha González, Denis MacShane, Pascal Lamy, Caroline Fourest, Julia Christ et Alain Bergounioux. 
  
 Des échanges avec des intellectuels pour nourrir nos réflexions (Irène Théry, François Dubet, Laurent Cordonier...)
               `}</Markdown>
