@@ -106,6 +106,7 @@ Des tribunes dans la presse
 * [Non, la gauche de gouvernement n'est pas morte](https://www.lemonde.fr/idees/article/2022/05/04/non-la-gauche-de-gouvernement-n-est-pas-morte_6124727_3232.html) (Le Monde, 04/05/2022)
 * [Ne pas avoir mis de garde-fous pour empêcher le RN de voter la motion de censure de la Nupes fut une erreur](https://www.lemonde.fr/idees/article/2022/11/08/ne-pas-avoir-mis-de-garde-fous-pour-empecher-le-rn-de-voter-la-motion-de-censure-de-la-nupes-fut-une-erreur_6148988_3232.html) (Le Monde, 08/11/2022)
 * [Un Parlement qui fonctionne](https://www.telos-eu.com/fr/politique-francaise-et-internationale/un-parlement-qui-fonctionne.html) (Telos, 07/02/2023)
+* [La gauche et l’Europe: et si on regardait du côté allemand?](https://www.telos-eu.com/fr/politique-francaise-et-internationale/la-gauche-et-leurope-et-si-on-regardait-du-cote-al.html) (Telos, 20/02/2023)
 
 Des manifestes collectifs
 
