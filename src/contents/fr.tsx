@@ -93,7 +93,7 @@ Voir aussi dans la presse [La gauche du "pragmatisme exigeant"](https://www.lemo
               <Markdown>{`
 Une journée [Gauche: des questions qui dérangent](https://www.engageons-nous.org/gauche_des_questions_qui_derangent?utm_campaign=_invit_gauche_quest_qui_derang&utm_medium=email&utm_source=appeldegauche) co-organisée le 26/11/2022 avec [Engageons-nous](https://www.engageons-nous.org/), [Inventer à gauche](https://www.inventeragauche.com/), et [Nouvelle société](https://www.nouvellesociete.fr/), avec la participation de Yamina Saheb, Jean Peyrelevade, Dominique Bourg, Arancha González, Denis MacShane, Pascal Lamy, Caroline Fourest, Julia Christ et Alain Bergounioux. 
 
-Une journée d'étude sur la République en crise, le 13/5/2023, organisée par le Lab de la social-démocratie, en association avec de nombreux clubs de réflexion, associations et partis ([voir le discours prononcé par Baptiste Bondu au nom de Télémaque](../files-for-downloads/Discours-Telemaque-13mai2023.pdf)).
+Une journée d'étude sur [La République en crise](https://www.nouvellesociete.fr/la_r_publique_en_crise), le 13/5/2023, organisée par le Lab de la social-démocratie, en association avec de nombreux clubs de réflexion, associations et partis ([voir le discours prononcé par Baptiste Bondu au nom de Télémaque](./files-for-downloads/Discours-Telemaque-13mai2023.pdf)).
 
 Des échanges avec des intellectuels pour nourrir nos réflexions (Irène Théry, François Dubet, Laurent Cordonier...)
               `}</Markdown>
