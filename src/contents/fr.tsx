@@ -31,7 +31,7 @@ Hébergeur: Netlify
 La gauche réformiste, prise en étau entre une gauche protestataire condamnée à vivre dans l’opposition et un centre droit qui penche toujours plus à droite, est menacée dans son existence même.
 Pourtant, elle seule, en alliant radicalité et crédibilité, peut permettre de renouer avec un progrès social réel.
 
-Pour cela, elle devra reconstruire un projet en s’appuyant sur les quatre piliers indissociables qui forgent son identité idéologique : le progrès social, la transition écologique, la construction européenne et la démocratie pluraliste.
+Pour cela, elle doit reconstruire un projet en s’appuyant sur les quatre piliers indissociables qui forgent son identité idéologique : le progrès social, la transition écologique, la construction européenne et la démocratie pluraliste.
         `}</Markdown>
         ),
         sections: {
@@ -95,7 +95,7 @@ Une journée [Gauche: des questions qui dérangent](https://www.engageons-nous.o
 
 Une journée d'étude sur [La République en crise](https://www.nouvellesociete.fr/la_r_publique_en_crise), le 13/5/2023, organisée par le Lab de la social-démocratie, en association avec de nombreux clubs de réflexion, associations et partis ([voir le discours prononcé par Baptiste Bondu au nom de Télémaque](./files-for-downloads/Discours-Telemaque-13mai2023.pdf)).
 
-Des échanges avec des intellectuels pour nourrir nos réflexions (Irène Théry, François Dubet, Laurent Cordonier...)
+Des échanges avec des intellectuels pour nourrir nos réflexions (Irène Théry, François Dubet, Laurent Cordonier, Jean-Laurent Cassely...)
               `}</Markdown>
             ),
           },
