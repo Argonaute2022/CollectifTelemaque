@@ -110,6 +110,7 @@ Des tribunes dans la presse
 * [Un Parlement qui fonctionne](https://www.telos-eu.com/fr/politique-francaise-et-internationale/un-parlement-qui-fonctionne.html) (Telos, 07/02/2023)
 * [La gauche et l’Europe: et si on regardait du côté allemand?](https://www.telos-eu.com/fr/politique-francaise-et-internationale/la-gauche-et-leurope-et-si-on-regardait-du-cote-al.html) (Telos, 20/02/2023)
 * [Pour sauver la planète, regardons… le passé](https://lejournal.info/article/pour-sauver-la-planete-regardons-le-passe/) (Le Journal, 17/07/2023)
+* [Ne ratons pas le rendez-vous des élections européennes ! La gauche réformiste doit se rassembler ](https://www.lemonde.fr/idees/article/2024/01/31/ne-ratons-pas-le-rendez-vous-des-elections-europeennes-la-gauche-reformiste-doit-se-rassembler_6214060_3232.html) (Le Monde, 31/01/2024)
 
 Des manifestes collectifs
 
