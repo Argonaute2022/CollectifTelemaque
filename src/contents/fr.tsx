@@ -95,7 +95,7 @@ Une journée [Gauche: des questions qui dérangent](https://www.engageons-nous.o
 
 Une journée d'étude sur [La République en crise](https://www.nouvellesociete.fr/la_r_publique_en_crise), le 13/5/2023, organisée par le Lab de la social-démocratie, en association avec de nombreux clubs de réflexion, associations et partis ([voir le discours prononcé par Baptiste Bondu au nom de Télémaque](./files-for-downloads/Discours-Telemaque-13mai2023.pdf)).
 
-Une réunion de La Convention à Paris, le 10/3/2024 ([voir le discours prononcé par Baptiste Bondu au nom de Télémaque](./files-for-downloads/Discours-Télémaque-Convention-10mars2024.pdf)). 
+Une réunion de La Convention à Paris, le 10/3/2024 ([voir le discours prononcé par Baptiste Bondu au nom de Télémaque](./files-for-downloads/Discours-Telemaque-Convention-10mars2024.pdf)). 
 
 Des échanges avec des intellectuels pour nourrir nos réflexions (Irène Théry, François Dubet, Laurent Cordonier, Jean-Laurent Cassely...)
               `}</Markdown>
