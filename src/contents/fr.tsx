@@ -114,6 +114,7 @@ Des tribunes dans la presse
 * [Pour sauver la planète, regardons… le passé](https://lejournal.info/article/pour-sauver-la-planete-regardons-le-passe/) (Le Journal, 17/07/2023)
 * [Ne ratons pas le rendez-vous des élections européennes ! La gauche réformiste doit se rassembler ](https://www.lemonde.fr/idees/article/2024/01/31/ne-ratons-pas-le-rendez-vous-des-elections-europeennes-la-gauche-reformiste-doit-se-rassembler_6214060_3232.html) (Le Monde, 31/01/2024)
 * [L’Europe doit se donner les moyens de lutter contre le projet impérialiste et anti-occidental de Vladimir Poutine](https://www.lemonde.fr/idees/article/2024/03/19/l-europe-doit-se-donner-les-moyens-de-lutter-contre-le-projet-imperialiste-et-anti-occidental-de-vladimir-poutine_6222853_3232.html) (Le Monde, 19/03/2024)
+* [Le jour d’après Netanyahou](https://lejournal.info/article/le-jour-dapres-netanyahou/) (Le Journal, 28/05/2024)
 
 Des manifestes collectifs
 
