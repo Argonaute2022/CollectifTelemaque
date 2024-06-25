@@ -115,6 +115,7 @@ Des tribunes dans la presse
 * [Ne ratons pas le rendez-vous des élections européennes ! La gauche réformiste doit se rassembler ](https://www.lemonde.fr/idees/article/2024/01/31/ne-ratons-pas-le-rendez-vous-des-elections-europeennes-la-gauche-reformiste-doit-se-rassembler_6214060_3232.html) (Le Monde, 31/01/2024)
 * [L’Europe doit se donner les moyens de lutter contre le projet impérialiste et anti-occidental de Vladimir Poutine](https://www.lemonde.fr/idees/article/2024/03/19/l-europe-doit-se-donner-les-moyens-de-lutter-contre-le-projet-imperialiste-et-anti-occidental-de-vladimir-poutine_6222853_3232.html) (Le Monde, 19/03/2024)
 * [Le jour d’après Netanyahou](https://lejournal.info/article/le-jour-dapres-netanyahou/) (Le Journal, 28/05/2024)
+* [Partout où le RN pourra l’emporter et où la gauche sera en troisième position, ses représentants devront appeler à voter pour la droite ou le centre](https://www.lemonde.fr/idees/article/2024/06/25/pour-un-barrage-efficace-les-representants-de-la-gauche-devront-refuser-toute-triangulaire-au-second-tour-et-appeler-a-voter-pour-les-candidats-de-la-droite-et-du-centre_6243644_3232.html) (Le Monde, 25/06/2024)
 
 Des manifestes collectifs
 
