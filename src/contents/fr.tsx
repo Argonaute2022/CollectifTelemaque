@@ -118,6 +118,7 @@ Des tribunes dans la presse
 * [Partout où le RN pourra l’emporter et où la gauche sera en troisième position, ses représentants devront appeler à voter pour la droite ou le centre](https://www.lemonde.fr/idees/article/2024/06/25/pour-un-barrage-efficace-les-representants-de-la-gauche-devront-refuser-toute-triangulaire-au-second-tour-et-appeler-a-voter-pour-les-candidats-de-la-droite-et-du-centre_6243644_3232.html) (Le Monde, 25/06/2024)
 * [Pour une culture de la négociation ](https://www.telos-eu.com/fr/pour-une-culture-de-la-negociation.html) (Telos, 30/09/24)
 * [Déserts médicaux : « L’accent doit être mis sur le recrutement local des médecins afin d’ancrer leur pratique, durablement, dans les territoires »](https://www.lemonde.fr/idees/article/2025/01/24/deserts-medicaux-l-accent-doit-etre-mis-sur-le-recrutement-local-des-medecins-afin-d-ancrer-leur-pratique-durablement-dans-les-territoires_6514087_3232.html) (Le Monde, 27/01/2025)
+* [Europe : un angélisme dangereux](https://lejournal.info/article/europe-un-angelisme-dangereux/) (Le Journal, 21/03/2025)
 
 Des manifestes collectifs
 
