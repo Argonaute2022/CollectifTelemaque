@@ -121,6 +121,7 @@ Des tribunes dans la presse
 * [Europe : un angélisme dangereux](https://lejournal.info/article/europe-un-angelisme-dangereux/) (Le Journal, 21/03/2025)
 * [L’Assemblée nationale doit permettre la recherche du compromis et la fabrique du consensus](https://www.lemonde.fr/idees/article/2025/05/21/l-assemblee-nationale-doit-permettre-la-recherche-du-compromis-et-la-fabrique-du-consensus_6607591_3232.html) (Le Monde, 21/05/2025)
 * [Retraites : cessons de sacrifier les jeunes !](https://lejournal.info/article/retraites-cessons-de-sacrifier-les-jeunes/) (Le Journal, 28/06/2025)
+* [Budget : en finir avec les prévisions fantaisistes](https://lejournal.info/article/budget-en-finir-avec-les-previsions-fantaisistes/) (Le Journal, 02/10/2025)
 
 Des manifestes collectifs
 
