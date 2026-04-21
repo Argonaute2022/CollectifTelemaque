@@ -122,6 +122,7 @@ Des tribunes dans la presse
 * [L’Assemblée nationale doit permettre la recherche du compromis et la fabrique du consensus](https://www.lemonde.fr/idees/article/2025/05/21/l-assemblee-nationale-doit-permettre-la-recherche-du-compromis-et-la-fabrique-du-consensus_6607591_3232.html) (Le Monde, 21/05/2025)
 * [Retraites : cessons de sacrifier les jeunes !](https://lejournal.info/article/retraites-cessons-de-sacrifier-les-jeunes/) (Le Journal, 28/06/2025)
 * [Budget : en finir avec les prévisions fantaisistes](https://lejournal.info/article/budget-en-finir-avec-les-previsions-fantaisistes/) (Le Journal, 02/10/2025)
+* [Présidentielle 2027 : « La France peut et doit aller plus loin pour se protéger des ingérences numériques étrangères »](https://www.lemonde.fr/idees/article/2026/04/20/presidentielle-2027-la-france-peut-et-doit-aller-plus-loin-pour-se-proteger-des-ingerences-numeriques-etrangeres_6681613_3232.html) (Le Monde, 20/04/2026)
 
 Des manifestes collectifs
 
