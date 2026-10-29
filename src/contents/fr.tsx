@@ -124,6 +124,7 @@ Des tribunes dans la presse
 * [Budget : en finir avec les prévisions fantaisistes](https://lejournal.info/article/budget-en-finir-avec-les-previsions-fantaisistes/) (Le Journal, 02/10/2025)
 * [Présidentielle 2027 : « La France peut et doit aller plus loin pour se protéger des ingérences numériques étrangères »](https://www.lemonde.fr/idees/article/2026/04/20/presidentielle-2027-la-france-peut-et-doit-aller-plus-loin-pour-se-proteger-des-ingerences-numeriques-etrangeres_6681613_3232.html) (Le Monde, 20/04/2026)
 * [Le monde parallèle de Matthieu Pigasse](https://librejournal.fr/article/le-monde-parallele-de-matthieu-pigasse/) (Libre Journal, 09/06/2026)
+* [La présidentielle et l'Europe](https://www.telos-eu.com/fr/la-presidentielle-et-leurope.html) (Telos, 13/10/2026)
 * [Crises sociales : « Il est temps de rompre avec la verticalité érigée en principe de gouvernement »](https://www.lemonde.fr/idees/article/2026/10/29/crises-sociales-il-est-temps-de-rompre-avec-la-verticalite-erigee-en-principe-de-gouvernement_6802329_3232.html) (Le Monde, 29/10/2026)
 
 
